@@ -24,10 +24,10 @@ class NewPost : AppCompatActivity() {
                 return@setOnClickListener
             }
 
-            // 버튼 클릭 시 topic 액티비티로 이동
-            val intent = Intent(this, topic::class.java)
-            intent.putExtra("title", title.text.toString())
-            startActivity(intent)
+            // 버튼 클릭 시 topic 화면으로 이동
+//            val intent = Intent(this, topic::class.java)
+//            intent.putExtra("title", title.text.toString())
+//            startActivity(intent)
         }
     }
 }
