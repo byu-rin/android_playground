@@ -9,7 +9,8 @@ android {
 
     defaultConfig {
         applicationId = "com.android.whatilove"
-        minSdk = 31
+        minSdk = 26
+        //26까지 맞추는 걸 추천(31)
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
