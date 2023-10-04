@@ -29,7 +29,7 @@ class ItemAdapter(private val mItems: MutableList<SaleItem>) : RecyclerView.Adap
 
 
     // onCreateViewHolder 함수는 ViewHolder 객체를 생성, 초기화
-    // ItemBinding.inflate() 함수를 통해 XML 레이아웃 파일에서 뷰를 인플레이트, 그 뷰를 사용하여 Holder 객체를 생성
+    // ItemBinding.inflate() 함수를 통해 XML 레이아웃 파일에서 뷰를 inflate, 그 뷰를 사용하여 Holder 객체를 생성
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): Holder {
         val binding = ItemBinding.inflate(LayoutInflater.from(parent.context), parent, false)
         return Holder(binding)

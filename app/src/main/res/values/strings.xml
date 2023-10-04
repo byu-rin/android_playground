@@ -4,5 +4,12 @@
     <string name="chat">채팅하기</string>
     <string name="dongName">삼평동</string>
     <string name="toggle">TODO</string>
+    <string name="itemimage">itemimage</string>
+    <string name="itemname">itemName</string>
+    <string name="address">address</string>
+    <string name="price">price</string>
+    <string name="count">32</string>
+    <string name="chat_count">like</string>
+    <string name="like_count">24</string>
 
 </resources>
