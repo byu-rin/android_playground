@@ -11,5 +11,13 @@
     <string name="count">32</string>
     <string name="chat_count">like</string>
     <string name="like_count">24</string>
+    <string name="seller_name">판매자 이름</string>
+    <string name="product">판매상품</string>
+    <string name="product_detail">판매상품 내용</string>
+    <string name="manner">39.3 ℃</string>
+    <string name="user">user</string>
+    <string name="imoji">imoji</string>
+    <string name="arrow">arrow</string>
+    <string name="like">like</string>
 
 </resources>

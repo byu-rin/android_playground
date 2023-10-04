@@ -62,11 +62,11 @@
         android:backgroundTint="@color/white"
         android:elevation="0dp"
         android:hapticFeedbackEnabled="true"
-        android:src="@drawable/scrollup"
+        android:src="@drawable/arrow"
+        android:rotation="270"
         app:borderWidth="0dp"
         android:visibility="invisible"
         app:fabCustomSize="40dp"
-        android:tint="@null"
         tools:ignore="ContentDescription"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
