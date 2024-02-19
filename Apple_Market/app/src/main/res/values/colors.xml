@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grayLine">#e1dcdc</color>
+    <color name="txt_sub">#4c4b4b</color>
+    <color name="pulple_200">#ffbb86fc</color>
+    <color name="pulple_500">#ff6200ee</color>
+    <color name="pulple_700">#ff3700b3</color>
+    <color name="teal_200">#ff03dac5</color>
+    <color name="teal_700">#ff018786</color>
+    <color name="text_bg_round">#ff5722</color>
+
+</resources>
